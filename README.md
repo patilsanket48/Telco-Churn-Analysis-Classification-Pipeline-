@@ -24,7 +24,7 @@ Each row represents a customer, each column contains customer’s attributes des
 2. ML algorithm fitting, prediction
 3. Result assessment - confusition Matrix, ROC & Precesion/recall curves
 
-## Summary Key Findings
+## Summary & Key Findings
 so far, Random Forest model performed well.
 
 - KNN and Randomforest model predicted similar results
