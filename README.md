@@ -18,3 +18,6 @@ Each row represents a customer, each column contains customer’s attributes des
 - check null values and take action
 - Feature Engineering (One-hot-encoding, skewness check)
 - Data Exploration (Visual Analysis)
+
+## Plan for ML model execution 
+- 
