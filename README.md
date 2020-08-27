@@ -19,5 +19,21 @@ Each row represents a customer, each column contains customer’s attributes des
 - Feature Engineering (One-hot-encoding, skewness check)
 - Data Exploration (Visual Analysis)
 
-## Plan for ML model execution 
-- 
+## Plan for ML model execution (KNN, Logistic Regression, RandomForest)
+1. Hyperparameter tuning
+2. ML algorithm fitting, prediction
+3. Result assessment - confusition Matrix, ROC & Precesion/recall curves
+
+## Summary Key Findings
+so far, Random Forest model performed well.
+
+- KNN and Randomforest model predicted similar results
+- RandomForest model preformed good in positive class prediction which is the main focus for this problem with very high recall score (specificity)
+- our model has a 88% recall. In such problems, a good recall value is expected.
+- Precision and Recall follows a trade-off, and you need to find a point where your recall, as well as your precision, is more than good but both can't increase simultaneously.
+#### overall  86%  is a very good result
+
+## Suggestions for next steps
+ 
+- some feature could be more importanat and ignoring some will make better model
+- For this backward feature selection would give better result.
